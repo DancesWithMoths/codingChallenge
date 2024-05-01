@@ -1,0 +1,22 @@
+,PolicyNumber,CoverageAmount,EndDate,AdminFee,StartDate,BusinessDescription,BusinessEvent,ClientRef,Commission,EffectiveDate,ClientType,InsurerPolicyNumber,IPTAmount,Premium,PolicyFee,PolicyType,Insurer,RenewalDate,RootPolicyRef,Product,brokerName,brokerId
+0,POL040,550000,2027-03-20,55,2026-03-20,Business DEF,Policy Initiation,CID01,0.09,2026-03-20,Corporate,IPN040,82.5,5100,28,Auto,DEF Insurers,2027-03-20,RP040,Auto Protection,broker2,1371
+1,POL041,940000,2027-04-24,94,2026-04-24,Business GHI,Policy Update,CID01,0.17,2026-04-24,Individual,IPN041,141.0,8300,72,Health,GHI Underwriters,2027-04-24,RP041,Health Protection,broker2,1371
+2,POL042,1100000,2027-05-18,110,2026-05-18,Business JKL,Contract Renewal,CID01,0.19,2026-05-18,Corporate,IPN042,165.0,9800,90,Property,JKL Insurance,2027-05-18,RP042,Property Coverage,broker2,1371
+3,POL043,710000,2027-06-23,71,2026-06-23,Business MNO,New Contract,CID02,0.11,2026-06-23,Individual,IPN043,106.5,6600,38,Auto,MNO Insurers,2027-06-23,RP043,Auto Protection,broker2,1371
+4,POL044,650000,2027-07-29,65,2026-07-29,Business PQRS,Policy Update,CID02,0.13,2026-07-29,Corporate,IPN044,97.5,6000,50,Health,PQRS Underwriters,2027-07-29,RP044,Health Protection,broker2,1371
+5,POL045,1020000,2027-08-20,102,2026-08-20,Business TUV,Contract Renewal,CID02,0.2,2026-08-20,Individual,IPN045,153.0,9100,85,Property,TUV Insurance,2027-08-20,RP045,Property Coverage,broker2,1371
+6,POL046,490000,2027-12-09,49,2026-12-09,Business WXY,New Contract,CID03,0.08,2026-12-09,Corporate,IPN046,73.5,4500,25,Auto,WXY Insurers,2027-12-09,RP046,Auto Protection,broker2,1371
+7,REF053,750000,2028-01-05,77,2027-01-05,Enterprise A1B,Contract Renewal,CID03,0.15,2027-01-05,Corporate,ICR053,115.0,6600,39,Auto,A1B Underwriters,2028-01-05,PPR053,Vehicle Shield,broker2,1371
+8,REF054,625000,2028-03-06,63,2027-03-06,Enterprise B2C,New Contract,CID03,0.12,2027-03-06,Individual,ICR054,93.75,5400,34,Property,B2C Underwriters,2028-03-06,PPR054,Home Secure,broker2,1371
+9,REF055,820000,2028-10-07,82,2027-10-07,Enterprise C3D,Contract Renewal,CID055,0.18,2027-10-07,Corporate,ICR055,123.0,7100,43,Health,C3D Underwriters,2028-10-07,PPR055,Life Care,broker2,1371
+10,REF056,550500,2028-08-15,55,2027-08-15,Enterprise D4E,New Contract,CID056,0.11,2027-08-15,Individual,ICR056,82.58,4800,30,Auto,D4E Underwriters,2028-08-15,PPR056,Vehicle Shield,broker2,1371
+11,REF072,865000,2023-09-20,87,2022-09-20,Enterprise S9T,New Contract,CID072,0.19,2022-09-20,Corporate,ICR072,129.75,7600,46,Auto,S9T Underwriters,2023-09-20,PPR072,Vehicle Secure,broker2,1371
+12,REF073,655000,2023-10-15,66,2022-10-15,Enterprise T0U,Contract Renewal,CID073,0.14,2022-10-15,Individual,ICR073,98.25,5700,35,Property,T0U Underwriters,2023-10-15,PPR073,Home Protect,broker2,1371
+13,REF074,840500,2023-10-11,84,2022-10-11,Enterprise U1V,New Contract,CID074,0.2,2022-10-11,Corporate,ICR074,126.08,7400,45,Health,U1V Underwriters,2023-10-11,PPR074,Life Secure,broker2,1371
+14,REF075,580500,2023-05-12,58,2022-05-12,Enterprise V2W,Contract Renewal,CID075,0.15,2022-05-12,Individual,ICR075,87.08,5100,32,Auto,V2W Underwriters,2023-05-12,PPR075,Vehicle Secure,broker2,1371
+15,REF076,965000,2024-01-18,97,2023-01-18,Enterprise W3X,New Contract,CID076,0.21,2023-01-18,Corporate,ICR076,144.75,8500,51,Property,W3X Underwriters,2024-01-18,PPR076,Home Protect,broker2,1371
+16,REF077,705000,2024-02-20,71,2023-02-20,Enterprise X4Y,Contract Renewal,CID077,0.16,2023-02-20,Individual,ICR077,105.75,TBC,38,Health,X4Y Underwriters,2024-02-20,PPR077,Life Secure,broker2,1371
+17,REF078,815000,2024-03-25,82,2023-03-25,Enterprise Y5Z,New Contract,CID078,0.18,2023-03-25,Corporate,ICR078,122.25,7100,44,Auto,Y5Z Underwriters,2024-03-25,PPR078,Vehicle Secure,broker2,1371
+18,REF079,645000,2024-10-04,65,2023-10-04,Enterprise Z6A,Contract Renewal,CID079,0.15,2023-10-04,Individual,ICR079,96.75,5600,36,Property,Z6A Underwriters,2024-10-04,PPR079,Home Protect,broker2,1371
+19,REF080,855500,2024-05-05,86,2023-05-05,Enterprise A7B,New Contract,CID080,0.19,2023-05-05,Corporate,ICR080,128.33,7500,47,Health,A7B Underwriters,2024-05-05,PPR080,Life Secure,broker2,1371
+20,REF081,595000,2024-06-15,60,2023-06-15,Enterprise B8C,Contract Renewal,CID081,0.16,2023-06-15,Individual,ICR081,89.25,5200,33,Auto,B8C Underwriters,2024-06-15,PPR081,Vehicle Secure,broker2,1371
