@@ -5,7 +5,6 @@ import pandas as pd
 def testDataNormalization():
     normalizedData = brokerChallenge.normalizeData(pd.read_csv('broker1.csv'), 'broker1', '1234')
     assert (len(normalizedData.columns) == 22)
-    assert ()
 
 def testDataProcessing():
     combinedDataSet = brokerChallenge.processData(['broker1.csv', 'broker2.csv'])
